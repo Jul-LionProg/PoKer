@@ -39,3 +39,4 @@ while i <= 5:
     i = i + 1
 if i <= 5 and escolhapcc != "N":
     r = csa()
+    if r == "s":
