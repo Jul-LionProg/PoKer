@@ -40,3 +40,4 @@ while i <= 5:
 if i <= 5 and escolhapcc != "N":
     r = csa()
     if r == "s":
+    print("Você saiu dessa mão!")
