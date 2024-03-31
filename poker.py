@@ -9,3 +9,6 @@ def maojogador():
     carta2j = random.choice(cartas)
     naipe1j = random.choice(naipes)
     naipe2j = random.choice(naipes)
+    
+    print("Jogador", nome, "você tem", carta1j,"de",naipe1j, "e", carta2j, "de", naipe2j)
+
