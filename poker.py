@@ -32,3 +32,4 @@ def csa():
 
 r = 0
 nome = str(input("Digite seu nome: "))
+maojogador()
