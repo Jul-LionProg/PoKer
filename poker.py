@@ -37,22 +37,23 @@ i = 0
 escolhapcc = 0
 while i <= 5:
     i = i + 1
-if i <= 5 and escolhapcc != "N":
-    r = csa()
-    if r == "s":
-    print("Você saiu dessa mão!")
-     
-    elif r == "c":
-    mesa()
-
-    elif r == "a":
-    qnt = int(input("Pra quanto você quer aumentar a aposta? R$"))
-    escolhapcc = random.choice(escolhapc)
-    if escolhapcc == "S":
-        print("\nO computador aceitou sua aposta de R$",qnt)
-        mesa()
-    elif escolhapcc == "N":
-     print("\nO computador não aceitou sua aposta.")
-    print("Você saiu dessa mão!")
- else:
-    print("Encerrou!")  
+    if i <= 5 and escolhapcc != "N":
+        r = csa()
+        if r == "s":
+            print("Você saiu dessa mão!")
+            
+        elif r == "c":
+            mesa()
+            
+        elif r == "a":
+            qnt = int(input("Pra quanto você quer aumentar a aposta? R$"))
+            escolhapcc = random.choice(escolhapc)
+            if escolhapcc == "S":
+                print("\nO computador aceitou sua aposta de R$",qnt)
+                mesa()
+            elif escolhapcc == "N":
+                print("\nO computador não aceitou sua aposta.")
+                print("Você saiu dessa mão!")
+        
+    else:
+        print("Encerrou!")  
