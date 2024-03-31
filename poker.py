@@ -8,3 +8,4 @@ def maojogador():
     carta1j = random.choice(cartas)
     carta2j = random.choice(cartas)
     naipe1j = random.choice(naipes)
+    naipe2j = random.choice(naipes)
