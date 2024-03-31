@@ -5,3 +5,4 @@ naipes = ["Espadas","Paus","Ouros","Copas"]
 escolhapc = ["S","N"]
 
 def maojogador():
+    carta1j = random.choice(cartas)
