@@ -50,3 +50,4 @@ if i <= 5 and escolhapcc != "N":
     escolhapcc = random.choice(escolhapc)
     if escolhapcc == "S":
      print("\nO computador aceitou sua aposta de R$",qnt)
+     mesa()
