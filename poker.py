@@ -43,3 +43,4 @@ if i <= 5 and escolhapcc != "N":
     print("Você saiu dessa mão!")
      
     elif r == "c":
+    mesa()
