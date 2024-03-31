@@ -52,3 +52,4 @@ if i <= 5 and escolhapcc != "N":
         print("\nO computador aceitou sua aposta de R$",qnt)
         mesa()
     elif escolhapcc == "N":
+     print("\nO computador não aceitou sua aposta.")
