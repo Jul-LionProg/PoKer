@@ -47,3 +47,4 @@ if i <= 5 and escolhapcc != "N":
 
     elif r == "a":
     qnt = int(input("Pra quanto você quer aumentar a aposta? R$"))
+    escolhapcc = random.choice(escolhapc)
