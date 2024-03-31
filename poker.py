@@ -12,3 +12,5 @@ def maojogador():
     
     print("Jogador", nome, "você tem", carta1j,"de",naipe1j, "e", carta2j, "de", naipe2j)
 
+
+def maopc():
