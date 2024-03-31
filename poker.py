@@ -54,3 +54,4 @@ if i <= 5 and escolhapcc != "N":
     elif escolhapcc == "N":
      print("\nO computador não aceitou sua aposta.")
     print("Você saiu dessa mão!")
+ else:
