@@ -49,5 +49,6 @@ if i <= 5 and escolhapcc != "N":
     qnt = int(input("Pra quanto você quer aumentar a aposta? R$"))
     escolhapcc = random.choice(escolhapc)
     if escolhapcc == "S":
-     print("\nO computador aceitou sua aposta de R$",qnt)
-     mesa()
+        print("\nO computador aceitou sua aposta de R$",qnt)
+        mesa()
+    elif escolhapcc == "N":
