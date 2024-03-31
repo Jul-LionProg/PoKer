@@ -15,3 +15,4 @@ def maojogador():
 
 def maopc():
     carta1pc = random.choice(cartas)
+    carta2pc = random.choice(cartas)
