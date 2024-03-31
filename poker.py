@@ -34,3 +34,4 @@ r = 0
 nome = str(input("Digite seu nome: "))
 maojogador()
 i = 0
+escolhapcc = 0
