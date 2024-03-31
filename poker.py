@@ -44,3 +44,5 @@ if i <= 5 and escolhapcc != "N":
      
     elif r == "c":
     mesa()
+
+    elif r == "a":
