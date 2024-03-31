@@ -46,3 +46,4 @@ if i <= 5 and escolhapcc != "N":
     mesa()
 
     elif r == "a":
+    qnt = int(input("Pra quanto você quer aumentar a aposta? R$"))
