@@ -35,3 +35,4 @@ nome = str(input("Digite seu nome: "))
 maojogador()
 i = 0
 escolhapcc = 0
+while i <= 5:
