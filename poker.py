@@ -6,3 +6,4 @@ escolhapc = ["S","N"]
 
 def maojogador():
     carta1j = random.choice(cartas)
+    carta2j = random.choice(cartas)
