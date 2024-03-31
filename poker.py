@@ -21,3 +21,4 @@ def maopc():
 
 def mesa():
     cartamesa = random.choice(cartas)
+    naipemesa = random.choice(naipes)
