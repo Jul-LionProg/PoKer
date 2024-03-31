@@ -41,3 +41,5 @@ if i <= 5 and escolhapcc != "N":
     r = csa()
     if r == "s":
     print("Você saiu dessa mão!")
+     
+    elif r == "c":
