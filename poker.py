@@ -17,3 +17,4 @@ def maopc():
     carta1pc = random.choice(cartas)
     carta2pc = random.choice(cartas)
     naipe1pc = random.choice(naipes)
+    naipe2pc = random.choice(naipes)
