@@ -28,3 +28,6 @@ def mesa():
 def csa():
     r = str(input("\nQuer continuar essa mão, sair dessa mão ou aumentar sua aposta? "))
     return r    
+
+
+r = 0
