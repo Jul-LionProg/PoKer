@@ -23,3 +23,6 @@ def mesa():
     cartamesa = random.choice(cartas)
     naipemesa = random.choice(naipes)
     print("A",i,"ª carta da mesa é: ", cartamesa,"de",naipemesa)
+        
+    
+def csa():
