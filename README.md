@@ -2,5 +2,5 @@
 
 * * S = Sair da jogada
 * * A = Aumentar a mão 
-* * N
+* * N =
 * * C
