@@ -2,5 +2,5 @@
 
 * * S = Sair da mão 
 * * A = Aumentar a mão 
-* * N = Aceitou sua aposta
-* * C =Aceitar  a mão 
+* * N = Não aceitar
+* * C = Aceitar  a mão 
