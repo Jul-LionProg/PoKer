@@ -3,4 +3,4 @@
 * * S = Sair da mão 
 * * A = Aumentar a mão 
 * * N = Aceitou sua aposta
-* * C
+* * C =Aceitar  a mão 
