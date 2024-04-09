@@ -1,4 +1,4 @@
-# Jogo de PoKer desenvolvidoem Python - 🃏 · ♠️ · ♣️ · 🃜🃚🃖🃁🂭🂺🃁 · ♦️ · ♥️ 
+# Jogo de PoKer desenvolvido em Python - 🃏 · ♠️ · ♣️ · 🃜🃚🃖🃁🂭🂺🃁 · ♦️ · ♥️ 
 
 S 
 A
