@@ -1,6 +1,6 @@
 # Jogo de PoKer desenvolvido em Python - 🃏 · ♠️ · ♣️ · 🃜🃚🃖🃁🂭🂺🃁 · ♦️ · ♥️ ·
 
-* * S = Sair da jogada
+* * S = Sair da mão 
 * * A = Aumentar a mão 
 * * N = Aceitou sua aposta
 * * C
